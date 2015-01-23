@@ -1,0 +1,1 @@
+https://example.com/link/to/resource,filename.extension
